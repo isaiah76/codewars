@@ -9,13 +9,15 @@ Given an input string of:
 ```
 apples, pears # and bananas
 grapes
-bananas !apples```
+bananas !apples
+```
 
 The output expected would be:
 ```
 apples, pears
 grapes
-bananas```
+bananas
+```
 
 The code would be called like so:
 ```java
